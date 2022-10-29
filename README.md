@@ -1,6 +1,9 @@
 # dotfiles
 
+Small configs. More configurations coming soon :)
+
 ### Previews
 
-![view1](https://raw.githubusercontent.com/RamPanic/dotfiles/master/views/view1.png?raw=true)
-![view2](https://raw.githubusercontent.com/RamPanic/dotfiles/master/views/view2.png?raw=true)
+![](https://i.imgur.com/194wbU2.png)
+
+![](https://i.imgur.com/g7jj0ob.png)

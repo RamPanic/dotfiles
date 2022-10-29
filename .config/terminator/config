@@ -1,0 +1,31 @@
+[global_config]
+  handle_size = 1
+  window_state = maximise
+  borderless = True
+  title_transmit_bg_color = "#878787"
+  title_receive_bg_color = "#c9a200"
+  title_inactive_bg_color = "#000000"
+  enabled_plugins = TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+[keybindings]
+[profiles]
+  [[default]]
+    allow_bold = False
+    background_darkness = 0.6
+    background_type = transparent
+    cursor_color = "#dddddd"
+    font = Monospace 10
+    foreground_color = "#83d9b6"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 10000
+    palette = "#000000:#ff2727:#4e9a06:#c4a000:#34609a:#9c5ea5:#06989a:#95906a:#dddddd:#ff7f7f:#8ae234:#fce94f:#70a7e2:#da84d1:#34e2e2:#e2dfa6"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]

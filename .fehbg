@@ -1,2 +1,6 @@
-#!/bin/sh
-feh --no-fehbg --bg-fill '/home/rampanic/Imágenes/Wallpapers/lucy2.jpg'
+#!/bin/bash
+
+WALLPAPERS_PATH='/home/rampanic/Pictures/Wallpapers'
+WALLPAPER='lucy2.jpg'
+
+feh --no-fehbg --bg-fill "$WALLPAPERS_PATH/$WALLPAPER" 
